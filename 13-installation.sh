@@ -22,9 +22,9 @@ dnf install mysql -y
 
     VALIDATE $? "MYSQL"
 
-dnf install nginix -y
+dnf install nginx -y
 
-    VALIDATE $? "NGINIX"
+    VALIDATE $? "NGINX"
 
 dnf install python3 -y
 
