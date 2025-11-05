@@ -29,7 +29,7 @@ VALIDATE(){ #functions recieve i/p's through args like shell script args
 
 }
 
-# $@ -> to get all the variables paased in the arguments in the script.
+# $@ -> to get all the variables passed in the arguments in the script.
 
 for package in $@
 do 
